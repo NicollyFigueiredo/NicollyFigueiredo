@@ -1,4 +1,4 @@
-<p align="left">Olá, Meu nome é Nicolly Figueiredo, sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de um estágio na área de back-end. Tenho experiência com tecnologias como Java, Hibernate, JPA, UML, Spring Boot. Sou dedicada, apaixonada por programação e sempre buscando aprender novas habilidades para desenvolver soluções eficientes e inovadoras.</p>
+<p align="left">Olá, Meu nome é Nicolly Figueiredo, sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de um estágio na área de back-end. Tenho experiência com tecnologias como Java, PostgreeSQL, Hibernate, JPA, UML, Spring Boot. Sou dedicada, apaixonada por programação e sempre buscando aprender novas habilidades para desenvolver soluções eficientes e inovadoras.</p>
 
 ###
 
